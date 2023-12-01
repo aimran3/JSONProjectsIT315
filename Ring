@@ -60,6 +60,6 @@
       "StoreLabCreated": "YES As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/pandora.jpeg"
     }
-  ],
+  ]
   "Status": "OK"
 }
