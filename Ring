@@ -1,16 +1,30 @@
 {
-  "PmillsJewelry":
-  [
-    {"StoreName":"Kay Jewelers","StoreDescription":"Step into a world of timeless beauty at Kay Jewelers. We offer a breathtaking collection of high-quality jewelry that's perfect for any occasion. From dazzling engagement rings to exquisite necklaces, bracelets, and earrings, our friendly and knowledgeable staff is here to assist you in finding the ideal piece to celebrate life's most special moments. Discover the finest diamonds, gemstones, and metals, and trust us for professional cleaning and repairs. At Kay Jewelers, we're more than a store; we're your partner in making memories that last a lifetime. Come experience the magic today!","StoreRing":"YES","StoreHours":"|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|","StoreAddress":"2700 Potomac Mills Mall. Neighborhood 5","StorePiercing":"NO","StoreWebsite":"https://www.simon.com/mall/potomac-mills/stores/kay-jewelers","StoreRepairIn":"NO, Jewelry Sent OUT","StoreLabCreated":"YES, As Well As Earth-Grown","StoreImage":"https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/kayjewelers.jpeg"}, 
-   
-{"StoreName":"Jared Vault","StoreDescription":"Jared Vault is your gateway to a world of remarkable jewelry and extraordinary savings. We offer a stunning collection of fine jewelry that combines style and affordability. From timeless engagement rings to fashion-forward pieces, necklaces, and watches, we provide a wide array of choices to suit your unique taste. Whether you're marking a special moment or treating yourself, our expert team is here to assist you in finding the perfect piece at prices that delight. Discover remarkable savings on diamonds, gemstones, and precious metals. Explore the endless possibilities today!","StoreRing":"YES","StoreHours":"|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|","StoreAddress":"2700 Potomac Mills Mall. Neighborhood 2","StorePiercing":"NO","StoreWebsite":"https://www.simon.com/mall/potomac-mills/stores/jared-vault","StoreRepairIn":"NO, Jewelry Sent OUT","StoreLabCreated":"YES, As Well As Earth-Grown","StoreImage":"https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/jaredvault.jpeg"}, 
-
-{"StoreName":"Zales Outlet","StoreDescription":"Zales Outlet has more than 125 stores in premier outlet malls and neighborhood shopping centers throughout the United States and Puerto Rico. Zales Outlet carries a unique selection of quality jewelry, including famous-maker watches, certified diamond engagement rings and on-trend fashion jewelry.","StoreRing":"YES","StoreHours":"|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|","StoreAddress":"2700 Potomac Mills Mall. Neighborhood 5","StorePiercing":"NO","StoreWebsite":"https://www.simon.com/mall/potomac-mills/stores/zales-outlet-the-diamond-store","StoreRepairIn":"NO, Jewelry Sent OUT","StoreLabCreated":"YES, As Well As Earth-Grown","StoreImage":"https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/zales.jpeg"}, 
-
-{"StoreName":"Reeds Jewelry","StoreDescription":"Beyond the exceptional service, REEDS Jewelers has built a reputation for fine jewelry and wrist watches that our customers wear for years. Every  piece is inspected at least twice: first by our manufacturers and the second by our trained quality inspectors. We only offer the best of the best! Some of the many fine jewelry brands we carry that have passed our rigorous inspection process are PANDORA, Mikimoto, and Swarovski. REEDS is also an authorized distributor in our store locations for many leading designer brands, including David Yurman, Tag Heuer, and Omega.","StoreRing":"YES","StoreHours":"|Monday to Thursday 11AM - 7PM| |Friday 11AM - 8PM| |Saturday 11AM - 9PM| |Sunday 11AM - 6PM|","StoreAddress":"2700 Potomac Mills Mall. Neighborhood 2","StorePiercing":"NO","StoreWebsite":"https://www.simon.com/mall/potomac-mills/stores/reeds-jewelers","StoreRepairIn":"NO, Jewelry Sent OUT","StoreLabCreated":"YES, As Well As Earth-Grown","StoreImage":"https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/reeds.jpeg"}, 
- 
-{"StoreName":"Pandora","StoreDescription":"Founded in 1982 and headquartered in Copenhagen, Denmark, Pandora is world-renowned for its hand-finished and contemporary jewelry. Pandora Jewelry is made from the highest quality, ethically sourced, 14k gold, 18K gold-plated sterling silver. sterling silver and Pandora Rose metals, and every single stone is hand set by a dedicated and skilled team of craftsman. In addition to iconic Pandora charms and bracelets, Pandora rings, earrings and necklaces are equally beautiful and versatile. Come be inspired at your local Pandora Jewelry store at 2700 Potomac Mills Circle in Woodbridge, VA today.","StoreRing":"YES","StoreHours":"|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|","StoreAddress":"2700 Potomac Mills Mall. Neighborhood 1","StorePiercing":"NO","StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/pandora-outlet","StoreRepairIn":"YES","StoreLabCreated":"YES As Well As Earth-Grown","StoreImage":"https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/pandora.jpeg"}, 
-
+  "PmillsJewelry": [
+    {
+      "StoreName": "Kay Jewelers",
+      "StoreDescription": "Step into a world of timeless beauty at Kay Jewelers. We offer a breathtaking collection of high-quality jewelry that's perfect for any occasion. From dazzling engagement rings to exquisite necklaces, bracelets, and earrings, our friendly and knowledgeable staff is here to assist you in finding the ideal piece to celebrate life's most special moments. Discover the finest diamonds, gemstones, and metals, and trust us for professional cleaning and repairs. At Kay Jewelers, we're more than a store; we're your partner in making memories that last a lifetime. Come experience the magic today!",
+      "StoreRing": "YES",
+      "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
+      "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 5",
+      "StorePiercing": "NO",
+      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/kay-jewelers",
+      "StoreRepairIn": "NO, Jewelry Sent OUT",
+      "StoreLabCreated": "YES, As Well As Earth-Grown",
+      "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/kayjewelers.jpeg"
+    },
+    // ... (other store objects)
+    {
+      "StoreName": "Pandora",
+      "StoreDescription": "Founded in 1982 and headquartered in Copenhagen, Denmark, Pandora is world-renowned for its hand-finished and contemporary jewelry. Pandora Jewelry is made from the highest quality, ethically sourced, 14k gold, 18K gold-plated sterling silver. sterling silver and Pandora Rose metals, and every single stone is hand set by a dedicated and skilled team of craftsman. In addition to iconic Pandora charms and bracelets, Pandora rings, earrings and necklaces are equally beautiful and versatile. Come be inspired at your local Pandora Jewelry store at 2700 Potomac Mills Circle in Woodbridge, VA today.",
+      "StoreRing": "YES",
+      "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
+      "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 1",
+      "StorePiercing": "NO",
+      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/pandora-outlet",
+      "StoreRepairIn": "YES",
+      "StoreLabCreated": "YES As Well As Earth-Grown",
+      "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/pandora.jpeg"
+    }
   ],
-"Status" : "OK"
+  "Status": "OK"
 }
