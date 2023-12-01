@@ -7,7 +7,7 @@
       "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
       "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 5",
       "StorePiercing": "NO",
-      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/kay-jewelers",
+      "StoreWebsite": "https://stores.kay.com/va/woodbridge/2954?cid=seo-listings",
       "StoreRepairIn": "NO, Jewelry Sent OUT",
       "StoreLabCreated": "YES, As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/kayjewelers.jpeg"
@@ -19,7 +19,7 @@
       "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
       "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 2",
       "StorePiercing": "NO",
-      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/jared-vault",
+      "StoreWebsite": "https://stores.jared.com/va/woodbridge/4054?cid=seo-listings",
       "StoreRepairIn": "NO, Jewelry Sent OUT",
       "StoreLabCreated": "YES, As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/jaredvault.jpeg"
@@ -31,7 +31,7 @@
       "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
       "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 5",
       "StorePiercing": "NO",
-      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/zales-outlet-the-diamond-store",
+      "StoreWebsite": "https://stores.zales.com/va/woodbridge/2663?cid=seo-listings",
       "StoreRepairIn": "NO, Jewelry Sent OUT",
       "StoreLabCreated": "YES, As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/zales.jpeg"
@@ -43,7 +43,7 @@
       "StoreHours": "|Monday to Thursday 11AM - 7PM| |Friday 11AM - 8PM| |Saturday 11AM - 9PM| |Sunday 11AM - 6PM|",
       "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 2",
       "StorePiercing": "NO",
-      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/reeds-jewelers",
+      "StoreWebsite": "https://www.reeds.com/reeds-locations/va/woodbridge/reeds-115",
       "StoreRepairIn": "NO, Jewelry Sent OUT",
       "StoreLabCreated": "YES, As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/reeds.jpeg"
@@ -55,7 +55,7 @@
       "StoreHours": "|Monday to Thursday 10AM - 8PM| |Friday to Saturday 10AM - 9PM| |Sunday 11AM - 6PM|",
       "StoreAddress": "2700 Potomac Mills Mall. Neighborhood 1",
       "StorePiercing": "NO",
-      "StoreWebsite": "https://www.simon.com/mall/potomac-mills/stores/pandora-outlet",
+      "StoreWebsite": "https://stores.pandora.net/en-us/va/woodbridge/pandora-jewelry-us1157237a.html?utm_source=google&utm_medium=listing&utm_content=us1157237a&utm_campaign=VA&utm_keyword=Woodbridge",
       "StoreRepairIn": "YES",
       "StoreLabCreated": "YES As Well As Earth-Grown",
       "StoreImage": "https://raw.githubusercontent.com/aimran3/JSONProjectsIT315/main/pandora.jpeg"
